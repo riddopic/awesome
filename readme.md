@@ -8,6 +8,8 @@
 	<br>
 	<br>
 	<br>
+	<h2><a href="https://www.producthunt.com/posts/pure-paste">Paste as plain text by default on macOS</a></h2>
+	<h1><a href="https://www.producthunt.com/posts/speediness">Check out my internet connection speed test app </a></h1>
 	<br>
 	<br>
 	<hr>
